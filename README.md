@@ -95,7 +95,7 @@ The `assets/` folder should include:
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Gulam Mohyudin Memon**  
 🔗 [GitHub Profile](https://github.com/memon-gulam-45)  
 📧 memongulam45@gmail.com
 
